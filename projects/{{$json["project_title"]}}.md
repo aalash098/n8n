@@ -1,0 +1,1 @@
+## AI Resume Enhancer  **Platform:** Udemy  **Skills Learned:** OpenAI, GPT-4, n8n automation  **Description:** A tool that enhances resumes using AI and automates LinkedIn/GitHub updates.  ---
